@@ -32,8 +32,7 @@
 <p align="center">
   <p>
     <a href="https://github.com/yusufzng1n" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammedsoysal&count_private=true&show_icons=true&theme=tokyonight">
-      </a>
+    </a>
     </p>
 </p>
 
