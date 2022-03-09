@@ -1,19 +1,4 @@
-### Hi there 👋
 
-<!--
-**yusufzng1n/yusufzng1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
  <h1 align="center">Hi , I'm Yusuf ZENGİN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">   </h1>
 <p align="center">
    <a href="https://github.com/yusufzng1n"><img src="https://readme-typing-svg.herokuapp.com?color=%23F70C0C&lines=Welcome+To+My+World++;Don't+Repeat+Yourself&center=true&width=500&height=50"></a>
@@ -46,19 +31,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <p>
-    <a href="https://github.com/muhammedsoysal" target="_blank">
+    <a href="https://github.com/yusufzng1n" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=muhammedsoysal&count_private=true&show_icons=true&theme=tokyonight">
       </a>
-</p>
-  <p>
-  <a href="https://github.com/muhammedsoysal/HastaneOtomasyon" target="_blank">
- 
-  </p>
-  <p>
-  <a href="https://github.com/muhammedsoysal?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufzng1n&hide=python&layout=compact&show_icons=true&theme=tokyonight">
-  </a>
-  </p>
+    </p>
 </p>
 
 ---
