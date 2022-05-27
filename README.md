@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=yusufzng1n&color=blue&style=for-the-badge">
+
 
 
  <h1 align="center">Hi , I'm Yusuf ZENGİN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">   </h1>
@@ -6,6 +6,7 @@
    <a href="https://github.com/yusufzng1n"><img src="https://readme-typing-svg.herokuapp.com?color=%23F70C0C&lines=Welcome+To+My+World++;Don't+Repeat+Yourself&center=true&width=500&height=50"></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=yusufzng1n&color=blue&style=for-the-badge">
  
 ### 📩 Connect with me:
   <a href="https://www.linkedin.com/in/yusuf-zengin-5043801b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
