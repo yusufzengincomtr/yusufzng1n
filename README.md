@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=yusufzng1n&color=blue&style=for-the-badge">
  
 ### 📩 Connect with me:
- <a href="https://www.youtube.com/channel/UCkOkVQFjxDOX9DY6YrQ56Bw" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCkOkVQFjxDOX9DY6YrQ56Bw?style=social" target="_blank"></a>
+ <a href="https://www.youtube.com/channel/UCkOkVQFjxDOX9DY6YrQ56Bw" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCkOkVQFjxDOX9DY6YrQ56Bw?label=Youtube%20Kanal%C4%B1m&style=for-the-badge" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yusuf-zengin-5043801b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:yusufzngnx@gmail.com" target="_blank" rel="nofollow"><img alt="Yusuf's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
