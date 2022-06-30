@@ -14,8 +14,7 @@
   <a href="mailto:yusufzngnx@gmail.com" target="_blank" rel="nofollow"><img alt="Yusuf's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
   
-**🛠𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-<br/>
+### 🛠 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:
 <br/>
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"></code>
 <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/337/337953.png"></code>
