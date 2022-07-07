@@ -14,12 +14,13 @@
   <a href="mailto:yusufzngnx@gmail.com" target="_blank" rel="nofollow"><img alt="Yusuf's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
   
-### 🛠 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:
+### 🛠 Languages And Tools :
 <br/>
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"></code>
 <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/337/337953.png"></code>
 <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/98962680/174548279-dcf85ca0-93c5-4d8a-b30e-7e9f8dd12f48.jpg"></code>
 
 <br/>
 <code><img height="40" width="40" src="https://img.icons8.com/color/452/visual-studio.png"></code>
