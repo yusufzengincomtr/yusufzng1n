@@ -6,7 +6,7 @@
    <a href="https://github.com/yusufzng1n"><img src="https://readme-typing-svg.herokuapp.com?color=%23F70C0C&lines=Welcome+To+My+World++;Don't+Repeat+Yourself&center=true&width=500&height=50"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=yusufzng1n&color=blue&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=yusufzng1n&color=blue&style=for-the-badge"> 
  
 ### 📩 Connect with me:
  <a href="https://www.youtube.com/channel/UCkOkVQFjxDOX9DY6YrQ56Bw" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCkOkVQFjxDOX9DY6YrQ56Bw?label=Youtube%20Kanal%C4%B1m&style=for-the-badge" target="_blank"></a>
@@ -24,31 +24,24 @@
 
 <br/>
 <code><img height="40" width="40" src="https://img.icons8.com/color/452/visual-studio.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/452/visual-studio-code-2019.png"></code>
 <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/452/visual-studio-code-2019.png"></code>
 <code><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/733/733609.png"></code>
 
 
+<br/>
 
- ---
-<br>
 
-📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <p>
-    <a href="https://github.com/yusufzng1n" target="_blank">
-    </a>
-    </p>
-</p>
+### 📊 GitHub Stats
 
----
-  
+<img src="https://github-readme-stats.vercel.app/api?username=yusufzng1n&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 <!--
-**yusufzng1n/yusufzng1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 🔭 I’m currently working on C#,SQL, MVC, ASP.NET, SELENİUM
+- 🌱 I’m currently learning MVC, SELENİUM, JAVASCRİPT, .NET
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
