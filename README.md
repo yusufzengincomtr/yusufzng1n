@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=yusufzng1n&color=blue&style=for-the-badge"> 
  
 ### 📩 Connect with me:
- <a href="https://www.yusufzenginn.com" target="_blank"><img src="https://img.shields.io/website?color=blue&down_message=%C4%B0NCELE&label=WEB%20S%C4%B0TEM&logo=microsoft&style=for-the-badge&url=https%3A%2F%2Fyusufzenginn.com" target="_blank"></a>
+ <a href="https://www.yusufzengin.com.tr" target="_blank"><img src="https://img.shields.io/website?color=blue&down_message=%C4%B0NCELE&label=WEB%20S%C4%B0TEM&logo=microsoft&style=for-the-badge&url=https%3A%2F%2Fyusufzenginn.com" target="_blank"></a>
  <a href="https://www.youtube.com/channel/UCkOkVQFjxDOX9DY6YrQ56Bw" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCkOkVQFjxDOX9DY6YrQ56Bw?label=%20Youtube%20&logo=youtube&style=for-the-badge" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yusuf-zengin-5043801b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:yusufzngnx@gmail.com" target="_blank" rel="nofollow"><img alt="Yusuf's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
